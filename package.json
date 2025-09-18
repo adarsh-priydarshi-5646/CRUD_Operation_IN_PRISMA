@@ -1,0 +1,20 @@
+{
+  "name": "prisma_crud1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev" : "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.16.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mysql2": "^3.15.0",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.16.2"
+  }
+}
