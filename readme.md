@@ -50,7 +50,7 @@
     |--readme..md
 ```
 
-# how to run project
+## how to run project
 
 - 1. `npm i`
 - 2. `create .env DATABASE_URL="mysql://root:Your_password@localhost:3306/your_db_name" and Port=3001`
